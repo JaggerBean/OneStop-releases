@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "publishers": [
+    {
+      "id": "jagger",
+      "name": "Jagger",
+      "github": "JaggerBean",
+      "catalog": "JaggerBean/OneStop-releases",
+      "color": "#14b8a6"
+    },
+    {
+      "id": "hunter",
+      "name": "Hunter",
+      "github": "ShadowHexYT",
+      "catalog": "ShadowHexYT/FrozenKingdom-releases",
+      "color": "#60a5fa",
+      "about": "FrozenKingdom: WoW: Forever addons and apps"
+    }
+  ],
+  "categories": [
+    { "name": "WoW Addons", "icon": "⚔️", "order": 10, "aliases": ["WoW: Forever Addons", "WoW Forever"], "description": "Addons for World of Warcraft" },
+    { "name": "Foundry VTT", "icon": "🎲", "order": 20, "aliases": ["Foundry", "Foundry Modules"], "description": "Modules and systems for Foundry Virtual Tabletop" },
+    { "name": "Game Mods", "icon": "🧩", "order": 30, "aliases": ["Mods"] },
+    { "name": "Apps", "icon": "🖥️", "order": 40, "aliases": ["Applications"] },
+    { "name": "Streaming", "icon": "📺", "order": 50 },
+    { "name": "Mods & Tools", "icon": "🧰", "order": 90, "aliases": ["Tools"] }
+  ]
+}
