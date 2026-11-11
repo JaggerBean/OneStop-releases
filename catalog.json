@@ -15,6 +15,11 @@
       "id": "crafting-professions",
       "releasesRepo": "JaggerBean/Crafting-Professions",
       "category": "Foundry VTT"
+    },
+    {
+      "id": "kenku-fm-speakeasy",
+      "releasesRepo": "JaggerBean/Kenku-FM-Speakeasy-releases",
+      "category": "Apps"
     }
   ]
 }
