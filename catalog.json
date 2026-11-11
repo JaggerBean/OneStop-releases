@@ -20,6 +20,11 @@
       "id": "kenku-fm-speakeasy",
       "releasesRepo": "JaggerBean/Kenku-FM-Speakeasy-releases",
       "category": "Apps"
+    },
+    {
+      "id": "mirror",
+      "releasesRepo": "JaggerBean/WoWMirror-releases",
+      "category": "Apps"
     }
   ]
 }
