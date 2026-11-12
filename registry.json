@@ -21,8 +21,7 @@
     { "name": "WoW Addons", "icon": "⚔️", "order": 10, "aliases": ["WoW: Forever Addons", "WoW Forever"], "description": "Addons for World of Warcraft" },
     { "name": "Foundry VTT", "icon": "🎲", "order": 20, "aliases": ["Foundry", "Foundry Modules"], "description": "Modules and systems for Foundry Virtual Tabletop" },
     { "name": "Game Mods", "icon": "🧩", "order": 30, "aliases": ["Mods"] },
-    { "name": "Apps", "icon": "🖥️", "order": 40, "aliases": ["Applications"] },
-    { "name": "Streaming", "icon": "📺", "order": 50 },
+    { "name": "Apps", "icon": "🖥️", "order": 40, "aliases": ["Applications", "Streaming"] },
     { "name": "Mods & Tools", "icon": "🧰", "order": 90, "aliases": ["Tools"] }
   ]
 }
