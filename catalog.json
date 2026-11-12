@@ -25,6 +25,21 @@
       "id": "mirror",
       "releasesRepo": "JaggerBean/WoWMirror-releases",
       "category": "WoW Addons"
+    },
+    {
+      "id": "locks-and-lore",
+      "releasesRepo": "JaggerBean/Locks-and-Lore",
+      "category": "Foundry VTT"
+    },
+    {
+      "id": "bardic-inspiration",
+      "releasesRepo": "JaggerBean/Bardic-Inspiration",
+      "category": "Foundry VTT"
+    },
+    {
+      "id": "party-pack",
+      "releasesRepo": "JaggerBean/Party-Pack",
+      "category": "Foundry VTT"
     }
   ]
 }
